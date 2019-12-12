@@ -1,0 +1,11 @@
+# General-
+General 
+
+######################
+REGEX PATTERNS
+########################
+* 0 or many times
++ 1 0r many times
+. any charcater
+^ starting
+$ from end
