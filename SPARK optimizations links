@@ -2,3 +2,32 @@ https://0x0fff.com/spark-memory-management/
 https://medium.com/@Shkha_24/catalyst-optimizer-the-power-of-spark-sql-cad8af46097f
 https://databricks.com/glossary/tungsten
 https://towardsdatascience.com/pyspark-and-sparksql-basics-6cb4bf967e53
+
+PYSPARK LINKS
+Pyspark API
+
+https://spark.apache.org/docs/latest/api/python/index.html
+
+CICD
+
+http://datanrg.blogspot.com/2019/02/continuous-integration-and-delivery.html
+
+Sample spark program execution
+
+https://dzone.com/articles/how-spark-internally-executes-a-program
+
+Databricks delta
+
+https://docs.databricks.com/delta/delta-update.html
+
+Spark with python basics
+
+https://github.com/vivek-bombatkar/Spark-with-Python---My-learning-notes-   
+
+AzureDatabricksBestPractices
+
+https://github.com/Azure/AzureDatabricksBestPractices/blob/master/toc.md#arrive-at-correct-cluster-size-by-iterative-performance-testing
+
+Spark performance tuning techniques
+
+https://spark.apache.org/docs/latest/tuning.html ,
