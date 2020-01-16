@@ -1,0 +1,14 @@
+1. Highest salary
+  select * FROM (SELECT *,DENSE_RANK() OVER ( ORDER BY SALARY DESC) DR from TESTB) S 
+  Where S.DR=1;
+  * for 2nd,3rd n so on Where S.DR=2 or 3 04 so on;
+  
+2. Finding duplicate rows
+  select * from (
+          select id,name,q.salary,row_number() over(partition by salary order by salary  ) row_nn
+          from querytest q
+          )gg
+            where row_nn >1
+   
+  
+  
