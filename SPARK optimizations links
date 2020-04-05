@@ -50,3 +50,7 @@ https://github.com/Azure/AzureDatabricksBestPractices/blob/master/toc.md#arrive-
 Spark performance tuning techniques
 
 https://spark.apache.org/docs/latest/tuning.html ,
+
+Logical n physical plans
+
+https://blog.knoldus.com/understanding-sparks-logical-and-physical-plan-in-laymans-term/
